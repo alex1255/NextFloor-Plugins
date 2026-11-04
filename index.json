@@ -44,6 +44,17 @@
       "items": 10,
       "url": "https://raw.githubusercontent.com/therealMRBK/NextFloor-Plugins/main/packs/kallax_all_versions.json",
       "sha256": "e1456b3bcf360cc39b5cce14577b95ec5ba2cc864254f33c7d75eda9cc01caba"
+    },
+    {
+      "id": "peter.it",
+      "name": "IT-Pack",
+      "description": "Rechner und Netzwerkgeräte fürs Heimnetz",
+      "author": "Peter",
+      "submitter": "peterwup",
+      "release": 1,
+      "items": 1,
+      "url": "https://raw.githubusercontent.com/therealMRBK/NextFloor-Plugins/main/packs/peter.it.json",
+      "sha256": "6f9b16973b58e2ad4fd52e296dafc03ba7593f29d3ded47151232bd557780ef6"
     }
   ]
 }
