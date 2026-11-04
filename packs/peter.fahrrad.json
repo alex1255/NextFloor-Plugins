@@ -1,0 +1,270 @@
+{
+ "format": "nfpack",
+ "version": 1,
+ "id": "peter.fahrrad",
+ "name": "Fahrrad-Pack",
+ "publisher": "Peter",
+ "release": 1,
+ "description": "Zubehör rund ums E-Bike",
+ "items": [
+  {
+   "id": "bosch_ladegeraet",
+   "name": {
+    "de": "Bosch E-Bike-Ladegerät",
+    "en": "Bosch e-bike charger"
+   },
+   "size": [
+    0.223,
+    0.086,
+    0.054
+   ],
+   "electric": true,
+   "mount": "surface",
+   "parts": [
+    {
+     "shape": "sweep",
+     "x": 0.0,
+     "z": 0.0,
+     "w": 0.8513,
+     "d": 1.0,
+     "y": 0.0,
+     "h": 1.0,
+     "color": "#1f1f21",
+     "edges": "faint",
+     "stations": [
+      [
+       -0.5,
+       0.0,
+       0.8148,
+       0.7616
+      ],
+      [
+       -0.4943,
+       0.0,
+       0.872,
+       0.7893
+      ],
+      [
+       -0.4778,
+       0.0,
+       0.9237,
+       0.8143
+      ],
+      [
+       -0.4521,
+       0.0,
+       0.9646,
+       0.8341
+      ],
+      [
+       -0.4197,
+       0.0,
+       0.9909,
+       0.8469
+      ],
+      [
+       -0.3837,
+       0.0,
+       1.0,
+       0.8513
+      ],
+      [
+       0.3837,
+       0.0,
+       1.0,
+       0.8513
+      ],
+      [
+       0.4197,
+       0.0,
+       0.9909,
+       0.8469
+      ],
+      [
+       0.4521,
+       0.0,
+       0.9646,
+       0.8341
+      ],
+      [
+       0.4778,
+       0.0,
+       0.9237,
+       0.8143
+      ],
+      [
+       0.4943,
+       0.0,
+       0.872,
+       0.7893
+      ],
+      [
+       0.5,
+       0.0,
+       0.8148,
+       0.7616
+      ]
+     ],
+     "exp": 4.0,
+     "n": 20,
+     "glow": false,
+     "screen": false,
+     "picture": false
+    },
+    {
+     "shape": "cyl",
+     "axis": "x",
+     "x": 0.4346,
+     "z": 0.0,
+     "w": 0.0179,
+     "d": 0.1628,
+     "y": 0.3704,
+     "h": 0.2593,
+     "color": "#0a0a0a",
+     "edges": false,
+     "glow": false,
+     "screen": false,
+     "picture": false
+    },
+    {
+     "shape": "cyl",
+     "axis": "x",
+     "x": 0.4534,
+     "z": 0.0,
+     "w": 0.0179,
+     "d": 0.1442,
+     "y": 0.3852,
+     "h": 0.2296,
+     "color": "#0a0a0a",
+     "edges": false,
+     "glow": false,
+     "screen": false,
+     "picture": false
+    },
+    {
+     "shape": "cyl",
+     "axis": "x",
+     "x": 0.4722,
+     "z": 0.0,
+     "w": 0.0179,
+     "d": 0.1256,
+     "y": 0.4,
+     "h": 0.2,
+     "color": "#0a0a0a",
+     "edges": false,
+     "glow": false,
+     "screen": false,
+     "picture": false
+    },
+    {
+     "shape": "cyl",
+     "axis": "x",
+     "x": 0.491,
+     "z": 0.0,
+     "w": 0.0179,
+     "d": 0.107,
+     "y": 0.4148,
+     "h": 0.1704,
+     "color": "#0a0a0a",
+     "edges": false,
+     "glow": false,
+     "screen": false,
+     "picture": false
+    },
+    {
+     "shape": "cyl",
+     "axis": "x",
+     "x": -0.4346,
+     "z": 0.0,
+     "w": 0.0179,
+     "d": 0.1628,
+     "y": 0.3704,
+     "h": 0.2593,
+     "color": "#0a0a0a",
+     "edges": false,
+     "glow": false,
+     "screen": false,
+     "picture": false
+    },
+    {
+     "shape": "cyl",
+     "axis": "x",
+     "x": -0.4534,
+     "z": 0.0,
+     "w": 0.0179,
+     "d": 0.1442,
+     "y": 0.3852,
+     "h": 0.2296,
+     "color": "#0a0a0a",
+     "edges": false,
+     "glow": false,
+     "screen": false,
+     "picture": false
+    },
+    {
+     "shape": "cyl",
+     "axis": "x",
+     "x": -0.4722,
+     "z": 0.0,
+     "w": 0.0179,
+     "d": 0.1256,
+     "y": 0.4,
+     "h": 0.2,
+     "color": "#0a0a0a",
+     "edges": false,
+     "glow": false,
+     "screen": false,
+     "picture": false
+    },
+    {
+     "shape": "cyl",
+     "axis": "x",
+     "x": -0.491,
+     "z": 0.0,
+     "w": 0.0179,
+     "d": 0.107,
+     "y": 0.4148,
+     "h": 0.1704,
+     "color": "#0a0a0a",
+     "edges": false,
+     "glow": false,
+     "screen": false,
+     "picture": false
+    }
+   ],
+   "symbol": [
+    {
+     "shape": "rect",
+     "x": 0.0,
+     "z": 0.0,
+     "w": 0.8513,
+     "d": 1.0,
+     "fill": true
+    },
+    {
+     "shape": "rect",
+     "x": 0.4642,
+     "z": 0.0,
+     "w": 0.0771,
+     "d": 0.1628,
+     "fill": false
+    },
+    {
+     "shape": "rect",
+     "x": -0.4642,
+     "z": 0.0,
+     "w": 0.0771,
+     "d": 0.1628,
+     "fill": false
+    }
+   ],
+   "climate": false,
+   "hole": false,
+   "surface": false,
+   "vehicle": false,
+   "stretch": false,
+   "wall_y": 1.0,
+   "pet": false
+  }
+ ]
+}
