@@ -55,6 +55,17 @@
       "items": 1,
       "url": "https://raw.githubusercontent.com/therealMRBK/NextFloor-Plugins/main/packs/peter.fahrrad.json",
       "sha256": "8af33d58d8b24279eda9f72d71eaa34ccb954625eea50261e354404233b1ee5e"
+    },
+    {
+      "id": "peter.werkstatt",
+      "name": "Werkstatt-Pack",
+      "description": "CNC-Fräse und CO2-Laser für die Werkstatt",
+      "author": "Peter",
+      "submitter": "peterwup",
+      "release": 1,
+      "items": 2,
+      "url": "https://raw.githubusercontent.com/therealMRBK/NextFloor-Plugins/main/packs/peter.werkstatt.json",
+      "sha256": "af2cf5b88307c9c29da056274bac02edabbe70102c6effeac1362a9c3b87793b"
     }
   ]
 }
